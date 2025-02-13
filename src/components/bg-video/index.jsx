@@ -1,4 +1,3 @@
-import React from 'react'
 import Video from './assets/video.mp4'
 const BgVideo = () => {
   return (
