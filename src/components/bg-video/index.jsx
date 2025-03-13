@@ -1,4 +1,5 @@
 import Video from './assets/video.mp4'
+import './bgVideo.css'
 const BgVideo = () => {
   return (
     <>

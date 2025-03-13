@@ -1,12 +1,16 @@
 import './App.css'
-import BgVideo from './components/bg-video'
+// import BgVideo from './components/bg-video'
+// import StarRating from './components/star-rating/starRating';
+import LoadingAnimation from './components/loading-animation/loadingAnimation';
 
 function App() {
  
 
   return (
     <div className="App">
-      <BgVideo />
+      {/* <BgVideo /> */}
+      {/* <StarRating /> */}
+      <LoadingAnimation />
     </div>
   )
 }
